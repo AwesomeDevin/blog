@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AwesomeDevin/blog">
-  <img width="202" alt="AwesomeDevin's blog" >
+  <img width="https://raw.githubusercontent.com/AwesomeDevin/taro-custom-ui/master/src/stastic/images/logo.png" alt="Custom UI" >
   </a>
 </p>
 
