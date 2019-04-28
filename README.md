@@ -1,4 +1,16 @@
-### [查看所有blog文章](https://github.com/AwesomeDevin/blog/issues)
+## [查看所有blog文章](https://github.com/AwesomeDevin/blog/issues)
+
+## Javascript系列
+[【Javascript】手写运算符new创建实例并实现js继承](https://github.com/AwesomeDevin/blog/issues/8)  
+[【Javascript】彻底捋清楚javascript中 new 运算符的实现](https://github.com/AwesomeDevin/blog/issues/7)  
+[【Javascript】手把手进行ES6异步编程： Generator + Promise = JavaScript强大的异步回调方式](https://github.com/AwesomeDevin/blog/issues/3)  
+[【Javascript】解决由于参数编码问题导致服务端报500 【如：微信小程序 session_key 加密数据解密算法 报错】](https://github.com/AwesomeDevin/blog/issues/2)  
+
+## Python系列
+[【python】使用简单的python语句编写爬虫 定时拿取信息并存入txt](https://github.com/AwesomeDevin/blog/issues/6)  
+[【python】使用openpyxl进行excel操作](https://github.com/AwesomeDevin/blog/issues/5)
+
+
 
 ### 关于订阅
 #### 如果觉得我的文章对你有帮助，欢迎右上角 `star`。订阅的话，请 `watch` 按钮。
