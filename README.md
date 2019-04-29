@@ -13,6 +13,8 @@
 [【python】使用openpyxl进行excel操作](https://github.com/AwesomeDevin/blog/issues/5)
 
 
+## Webpack系列
+【webpack】 从0到1构建,webpack4持久化缓存优化方案,小白也能看懂的构建过程(https://github.com/AwesomeDevin/blog/issues/4)
 
 ### 关于订阅
 #### 如果觉得我的文章对你有帮助，欢迎右上角 `star`。订阅的话，请 `watch` 按钮。
