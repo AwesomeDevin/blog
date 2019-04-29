@@ -5,6 +5,8 @@
 [【Javascript】彻底捋清楚javascript中 new 运算符的实现](https://github.com/AwesomeDevin/blog/issues/7)  
 [【Javascript】手把手进行ES6异步编程： Generator + Promise = JavaScript强大的异步回调方式](https://github.com/AwesomeDevin/blog/issues/3)  
 [【Javascript】解决由于参数编码问题导致服务端报500 【如：微信小程序 session_key 加密数据解密算法 报错】](https://github.com/AwesomeDevin/blog/issues/2)  
+[【Javascript】深入理解javascript作用域与作用域链](https://github.com/AwesomeDevin/blog/issues/9)  
+[【Javascript】深入理解this作用域问题](https://github.com/AwesomeDevin/blog/issues/10)
 
 ## Python系列
 [【python】使用简单的python语句编写爬虫 定时拿取信息并存入txt](https://github.com/AwesomeDevin/blog/issues/6)  
