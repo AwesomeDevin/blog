@@ -1,7 +1,7 @@
 ## [查看所有blog文章](https://github.com/AwesomeDevin/blog/issues)
 
 ## Javascript系列
-[【Javascript】深入理解this作用域问题以及new运算符对this作用域的影响](https://github.com/AwesomeDevin/blog/issues/10)  
+[【Javascript】深入理解this作用域问题以及new/let/var/const对this作用域的影响](https://github.com/AwesomeDevin/blog/issues/10)  
 [【Javascript】深入理解javascript作用域与作用域链](https://github.com/AwesomeDevin/blog/issues/9)  
 [【Javascript】手写运算符new创建实例并实现js继承](https://github.com/AwesomeDevin/blog/issues/8)  
 [【Javascript】彻底捋清楚javascript中 new 运算符的实现](https://github.com/AwesomeDevin/blog/issues/7)  
