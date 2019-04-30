@@ -5,7 +5,7 @@
 [【Javascript】深入理解javascript作用域与作用域链](https://github.com/AwesomeDevin/blog/issues/9)  
 [【Javascript】手写运算符new创建实例并实现js继承](https://github.com/AwesomeDevin/blog/issues/8)  
 [【Javascript】彻底捋清楚javascript中 new 运算符的实现](https://github.com/AwesomeDevin/blog/issues/7)  
-[【Javascript】手把手进行ES6异步编程: Generator+Promise = Async/Await](https://github.com/AwesomeDevin/blog/issues/3)  
+[【Javascript】深入理解async/await的实现,Generator+Promise = Async/Await](https://github.com/AwesomeDevin/blog/issues/3)  
 [【Javascript】解决由于参数编码问题导致服务端报500 【如：微信小程序 session_key 加密数据解密算法 报错】](https://github.com/AwesomeDevin/blog/issues/2)  
 
 
