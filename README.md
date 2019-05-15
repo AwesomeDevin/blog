@@ -19,7 +19,7 @@
 ## 算法系列,码不停题！！！
 [【算法系列】给定一个没有重复数字的序列，返回其所有可能的全排列](https://github.com/AwesomeDevin/blog/issues/11)
 
-## Webpack系列
+## 前端工程化系列
 [【webpack】 从0到1构建,webpack4持久化缓存优化方案,小白也能看懂的构建过程](https://github.com/AwesomeDevin/blog/issues/4)
 
 ### 关于订阅
