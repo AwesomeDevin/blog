@@ -22,7 +22,7 @@
 
 
 #### 剑指offer
-[【算法系列 - 剑指offer】从尾到头打印链表](https://github.com/AwesomeDevin/blog/issues/15)
+[【算法系列 - 剑指offer】从尾到头打印链表](https://github.com/AwesomeDevin/blog/issues/15)  
 [【算法系列 - 剑指offer】二维数组中的查找](https://github.com/AwesomeDevin/blog/issues/14)
 
 
