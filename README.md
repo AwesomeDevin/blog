@@ -18,12 +18,12 @@
 
 ## 算法系列,码不停题！！！
 #### leetCode
-[【算法系列 - leetCode】给定一个没有重复数字的序列，返回其所有可能的全排列](https://github.com/AwesomeDevin/blog/issues/11)
+[【算法系列 - leetCode】给定一个没有重复数字的序列，返回其所有可能的全排列](https://github.com/AwesomeDevin/blog/issues/11)  
 
 
 #### 剑指offer
 [【算法系列 - 剑指offer】从尾到头打印链表](https://github.com/AwesomeDevin/blog/issues/15)  
-[【算法系列 - 剑指offer】二维数组中的查找](https://github.com/AwesomeDevin/blog/issues/14)
+[【算法系列 - 剑指offer】二维数组中的查找](https://github.com/AwesomeDevin/blog/issues/14)  
 
 
 ## 前端工程化系列
