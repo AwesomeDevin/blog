@@ -17,11 +17,18 @@
 
 
 ## 算法系列,码不停题！！！
-[【算法系列】给定一个没有重复数字的序列，返回其所有可能的全排列](https://github.com/AwesomeDevin/blog/issues/11)
+#### leetCode
+[【算法系列 - leetCode】给定一个没有重复数字的序列，返回其所有可能的全排列](https://github.com/AwesomeDevin/blog/issues/11)
+
+
+#### 剑指offer
+[【算法系列 - 剑指offer】从尾到头打印链表](https://github.com/AwesomeDevin/blog/issues/15)
+[【算法系列 - 剑指offer】二维数组中的查找](https://github.com/AwesomeDevin/blog/issues/14)
+
 
 ## 前端工程化系列
 [【webpack】 从0到1构建,webpack4持久化缓存优化方案,小白也能看懂的构建过程](https://github.com/AwesomeDevin/blog/issues/4)
 
-### 关于订阅
+## 关于订阅
 #### 如果觉得我的文章对你有帮助，欢迎右上角 `star`。订阅的话，请 `watch` 按钮,正在努力学习中，日常更新！！！
 
