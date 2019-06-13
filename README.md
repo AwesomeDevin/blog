@@ -22,8 +22,14 @@
 
 
 #### 剑指offer
+[【算法系列 - 剑指Offer】斐波那契数列](https://github.com/AwesomeDevin/blog/issues/20)  
+[【算法系列 - 剑指Offer】旋转数组的最小数字](https://github.com/AwesomeDevin/blog/issues/19)  
+[【算法系列 - 剑指Offer】实现队列 ](https://github.com/AwesomeDevin/blog/issues/18)  
+[【算法系列 - 剑指Offer】重建二叉树](https://github.com/AwesomeDevin/blog/issues/17)  
+[【算法系列 - 剑指Offer】替换空格](https://github.com/AwesomeDevin/blog/issues/16)  
 [【算法系列 - 剑指Offer】从尾到头打印链表](https://github.com/AwesomeDevin/blog/issues/15)  
 [【算法系列 - 剑指Offer】二维数组中的查找](https://github.com/AwesomeDevin/blog/issues/14)  
+
 
 
 ## 前端工程化系列
