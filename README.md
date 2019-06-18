@@ -18,6 +18,7 @@
 
 ## 算法系列,码不停题！！！
 #### leetCode
+[【算法系列 - LeetCode】最小路径和 ](https://github.com/AwesomeDevin/blog/issues/22)  
 [【算法系列 - LeetCode】给定一个没有重复数字的序列，返回其所有可能的全排列](https://github.com/AwesomeDevin/blog/issues/11)  
 
 
