@@ -1,6 +1,7 @@
 ## [查看所有blog文章](https://github.com/AwesomeDevin/blog/issues)
 
 ## Javascript系列
+[【Javascript】探究event loop 在浏览器端与nodejs中的差别](https://github.com/AwesomeDevin/blog/issues/26)  
 [【Javascript】探究bind的作用及实现原理](https://github.com/AwesomeDevin/blog/issues/25)  
 [【Javascript】探究javascript中的堆/栈/任务队列与并发模型 event loop的关系](https://github.com/AwesomeDevin/blog/issues/12)  
 [【Javascript】深入理解this作用域问题以及new/let/var/const对this作用域的影响](https://github.com/AwesomeDevin/blog/issues/10)  
@@ -8,7 +9,7 @@
 [【Javascript】手写运算符new创建实例并实现js继承](https://github.com/AwesomeDevin/blog/issues/8)  
 [【Javascript】彻底捋清楚javascript中 new 运算符的实现](https://github.com/AwesomeDevin/blog/issues/7)  
 [【Javascript】深入理解async/await的实现,Generator+Promise = Async/Await](https://github.com/AwesomeDevin/blog/issues/3)  
-[【Javascript】解决由于参数编码问题导致服务端报500 【如：微信小程序 session_key 加密数据解密算法 报错】](https://github.com/AwesomeDevin/blog/issues/2)  
+[【Javascript】解决由于参数编码问题导致服务端报500 (如：微信小程序 session_key 加密数据解密算法 报错)](https://github.com/AwesomeDevin/blog/issues/2)  
 
 
 
