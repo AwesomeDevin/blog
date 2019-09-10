@@ -1,7 +1,7 @@
 ## [查看所有blog文章](https://github.com/AwesomeDevin/blog/issues)
 
 ## Javascript系列
-[【Javascript】探究event loop 在浏览器端与nodejs中的差别](https://github.com/AwesomeDevin/blog/issues/26)  
+[【Javascript】Javascript】Event loop 在浏览器端与NodeJS中的差别 以及 NodeJS中关于setTimeout与setImmediate引发的问题](https://github.com/AwesomeDevin/blog/issues/26)  
 [【Javascript】探究bind的作用及实现原理](https://github.com/AwesomeDevin/blog/issues/25)  
 [【Javascript】探究javascript中的堆/栈/任务队列与并发模型 event loop的关系](https://github.com/AwesomeDevin/blog/issues/12)  
 [【Javascript】深入理解this作用域问题以及new/let/var/const对this作用域的影响](https://github.com/AwesomeDevin/blog/issues/10)  
