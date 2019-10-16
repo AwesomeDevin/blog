@@ -4,7 +4,7 @@
 [【Javascript】Event loop 在浏览器端与NodeJS中的差别 以及 NodeJS中关于setTimeout与setImmediate引发的问题](https://github.com/AwesomeDevin/blog/issues/26)  
 [【Javascript】探究bind的作用及实现原理](https://github.com/AwesomeDevin/blog/issues/25)  
 [【Javascript】探究javascript中的堆/栈/任务队列与并发模型 event loop的关系](https://github.com/AwesomeDevin/blog/issues/12)  
-[【Javascript】深入理解this作用域问题以及new/let/var/const对this作用域的影响](https://github.com/AwesomeDevin/blog/issues/10)  
+[【Javascript】深入理解this作用域问题](https://github.com/AwesomeDevin/blog/issues/10)  
 [【Javascript】深入理解javascript作用域与作用域链](https://github.com/AwesomeDevin/blog/issues/9)  
 [【Javascript】手写运算符new创建实例并实现js继承](https://github.com/AwesomeDevin/blog/issues/8)  
 [【Javascript】彻底捋清楚javascript中 new 运算符的实现](https://github.com/AwesomeDevin/blog/issues/7)  
