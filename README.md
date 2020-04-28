@@ -1,7 +1,7 @@
 ## [查看所有blog文章](https://github.com/AwesomeDevin/blog/issues)
 
 ## Javascript系列
-[【javascript】一篇教你从防抖、节流函数来认识this指向的文章](https://github.com/AwesomeDevin/blog/issues/31)
+[【javascript】一篇教你从防抖、节流函数来认识this指向的文章](https://github.com/AwesomeDevin/blog/issues/31)  
 [【javascript】手把手教你使用React Hooks构建Redux进行状态管理](https://github.com/AwesomeDevin/blog/issues/28)  
 [【Javascript】Event loop 在浏览器端与NodeJS中的差别 以及 NodeJS中关于setTimeout与setImmediate引发的问题](https://github.com/AwesomeDevin/blog/issues/26)  
 [【Javascript】探究bind的作用及实现原理](https://github.com/AwesomeDevin/blog/issues/25)  
