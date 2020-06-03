@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style type="text/css">
+    *{
+      margin:0;
+      padding:0;
+    }
+  </style>
+</head>
+<body>
+    <canvas id="canvas1" width="262" height="314"></canvas>
+    <canvas id="canvas2" width="262" height="314"></canvas>
+    <canvas id="canvas3" width="262" height="314"></canvas>
+    <canvas id="canvas4" width="262" height="314"></canvas>
+    <canvas id="canvas5" width="262" height="314"></canvas>
+    <canvas id="canvas6" width="262" height="314"></canvas>
+    <canvas id="canvas7" width="262" height="314"></canvas>
+    <canvas id="canvas8" width="262" height="314"></canvas>
+
+
+
+
+<script>
+  var ctx1 = document.getElementById('canvas1').getContext('2d');
+  var ctx2 = document.getElementById('canvas2').getContext('2d');
+  var ctx3 = document.getElementById('canvas3').getContext('2d');
+  var ctx4 = document.getElementById('canvas4').getContext('2d');
+  var ctx5 = document.getElementById('canvas5').getContext('2d');
+  var ctx6 = document.getElementById('canvas6').getContext('2d');
+  var ctx7 = document.getElementById('canvas7').getContext('2d');
+  var ctx8 = document.getElementById('canvas8').getContext('2d');
+
+
+
+  function getBitIndex(color){
+    switch(color){
+      case 'R':
+        return 0
+      case 'G':
+        return 1
+      case 'B':
+        return 2
+    }
+  }
+
+
+  function initText(){
+    ctx2.font = '30px Microsoft Yahei';
+    ctx2.fillText('我是加密文本', 30, ctx2.canvas.height/2);
+    ctx2.color='black'
+    return ctx2.getImageData(0, 0, ctx2.canvas.width, ctx2.canvas.height);
+  }
+    
+
+  var decode = function(originalData,color){
+    var data = originalData.data;
+    var bit = getBitIndex(color) // offset的作用是找到alpha通道值，这里需要大家自己动动脑筋
+    for(var i = 0; i < data.length; i++){
+        if(i % 4 == bit){
+            // 红色分量
+            if(data[i] % 2 == 0){
+                data[i] = 0;   // 操作的是偶数通道值
+            } else {
+                data[i] = 255;    // 操作的是奇数通道值
+            }
+        } else if(i % 4 == 3){
+            // alpha通道不做处理
+            continue;
+        } else {
+            // 关闭其他分量，不关闭也不影响答案，甚至更美观 o(^▽^)o
+            // data[i] = 0;
+        }
+    }
+    return originalData
+  }
+
+    
+
+  function encrypt(originalData,textData, color){
+    var data = originalData.data;
+    var bit = getBitIndex(color)  // offset的作用是找到alpha通道值，这里需要大家自己动动脑筋
+    var offset = 3-bit
+
+    for(var i = 0; i < data.length; i++){
+      if(i % 4 == bit){
+          // 只处理目标通道
+          if(textData[i + offset] === 0 && (data[i] % 2 === 1)){
+              // 没有信息的像素，该通道最低位置0，但不要越界
+              data[i]--;
+          } else if (textData[i + offset] !== 0 && (data[i] % 2 === 0)){
+                // 有信息的像素，该通道最低位置1，可以想想上面的斑点效果是怎么实现的
+              data[i]++     // 避免在解密操作修改偶数通道值时对有信息的像素进行修改
+          }
+      }
+    }
+    return originalData   // 偶数通道值不含文字信息，奇数通道值含文字信息
+  }
+
+  function crack(encryptData,color){
+    const data = encryptData.data
+    var bit = getBitIndex(color)
+    for(var i = 0;i<data.length;i++){
+      if(i%4 === bit){
+        // 只处理目标通道
+       if(data[i]%2 === 1)
+       {
+          data[i]--
+       }
+      }
+    }
+    return encryptData
+  }
+
+  function gray(originData){
+    const data = originData.data
+    for(var i=0;i<data.length;i+=4){
+      const p = 0.2989
+      const q = 0.5870
+      const t = 0.1140
+      const g = p*data[i] + q*data[i+1] + t*data[i+2]
+      data[i] = data[i+1] = data[i+2] = g
+    }
+    return originData
+  }
+
+
+  function light(originData){
+    return originData
+  }
+
+
+  function initImg(url){
+    var img = new Image();
+    var originalData;
+    img.onload = function() {
+      ctx1.drawImage(img, 0, 0,262,314);
+      const originData = ctx1.getImageData(0, 0, ctx1.canvas.width, ctx1.canvas.height) // 图片源数据
+      const textData = initText()  // 文本数据
+      const encryptData = encrypt(originData,textData.data,'R')  // 加密数据
+      ctx3.putImageData(encryptData, 0, 0);   
+      const decodeData1 = decode(encryptData,'R')  // 解密 加密数据
+      ctx4.putImageData(decodeData1, 0, 0);
+      const crackData = crack(ctx3.getImageData(0, 0, ctx3.canvas.width, ctx3.canvas.height),'R')   // 因为encryptData属于引用类型，这里应从ctx3获取encryptData
+      ctx5.putImageData(crackData, 0, 0);
+      const decodeData2 = decode(crackData,'R')  // 解密 破解数据
+      ctx6.putImageData(decodeData2, 0, 0);
+      const grayData = gray(ctx1.getImageData(0, 0, ctx1.canvas.width, ctx1.canvas.height))
+      ctx7.putImageData(grayData, 0, 0);
+    }
+    img.crossOrigin = "anonymous";
+    img.src = url
+  }
+
+
+
+  function init(){
+    initImg('https://image.watsons.com.cn//upload/25ab20fe.JPG')
+  }
+  init()
+
+
+  </script>
+  
+</body>
+</html>

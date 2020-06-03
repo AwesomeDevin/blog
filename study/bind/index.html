@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+
+var arr1 = [1,2,3]
+for(var index in arr1)
+{
+  (async function(i){
+    arr1[i] =  await new Promise((resolve)=>{
+      setTimeout(()=>{
+        resolve(arr1[i] * 2)
+      },1000)
+    })
+    console.log('+++',arr1)
+  })(index)
+}
+console.log('---',arr1)
+
+
+
+
+    
+
+
+
+    
+  </script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    
+    var module = {
+  x: 42,
+  getX: function() {
+    return this.x;
+  }
+}
+
+var unboundGetX = module.getX;
+console.log(module.getX())   // 42   
+console.log(unboundGetX())    // undefined
+var boundGetx = unboundGetX.bind(module)  //this指向变量module
+console.log(boundGetx())   // 42
+</script>
+  
+</body>
+</html>

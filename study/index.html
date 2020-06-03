@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  
+</body>
+<script>
+
+
+
+const arr = [1,2,3,4,5]
+for(var i of arr){
+
+  const promise = Promise.resolve(i)
+  setTimeout(()=>{
+    promise.then((data)=>{
+      // i=data+1
+      console.log(data)
+    })
+  },1000)
+  // setTimeout(()=>{console.log('A',i)},1000)
+  // function A(){
+  //   var a = i
+  //   setTimeout(()=>{console.log('A',a)},1000)
+  //   function B(){
+  //     setTimeout(()=>{console.log('B',i)},1000)
+  //   }
+    // B()
+  // }
+
+}
+
+</script>
+</html>
