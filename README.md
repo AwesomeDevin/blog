@@ -1,6 +1,7 @@
 ## [查看所有blog文章](https://github.com/AwesomeDevin/blog/issues)
 
-## Javascript系列
+## 前端系列
+#### JAVASCRIPT
 [【javascript】一篇教你从防抖、节流函数来认识this指向的文章](https://github.com/AwesomeDevin/blog/issues/31)  
 [【javascript】手把手教你使用React Hooks构建Redux进行状态管理](https://github.com/AwesomeDevin/blog/issues/28)  
 [【Javascript】Event loop 在浏览器端与NodeJS中的差别 以及 NodeJS中关于setTimeout与setImmediate引发的问题](https://github.com/AwesomeDevin/blog/issues/26)  
@@ -13,6 +14,11 @@
 [【Javascript】深入理解async/await的实现,Generator+Promise = Async/Await](https://github.com/AwesomeDevin/blog/issues/3)  
 [【Javascript】解决由于参数编码问题导致服务端报500 (如：微信小程序 session_key 加密数据解密算法 报错)](https://github.com/AwesomeDevin/blog/issues/2)  
 
+#### CSS
+[【CSS】你可能不知道的Animation动画技巧与细节](https://github.com/AwesomeDevin/blog/issues/35)
+
+#### 前端工程化
+[【webpack】 从0到1构建,webpack4持久化缓存优化方案,小白也能看懂的构建过程](https://github.com/AwesomeDevin/blog/issues/4)
 
 
 ## Python系列
@@ -38,8 +44,7 @@
 
 
 
-## 前端工程化系列
-[【webpack】 从0到1构建,webpack4持久化缓存优化方案,小白也能看懂的构建过程](https://github.com/AwesomeDevin/blog/issues/4)
+
 
 ## 关于订阅
 #### 如果觉得我的文章对你有帮助，欢迎右上角 `star`。订阅的话，请 `watch` 按钮,正在努力学习中，日常更新！！！
