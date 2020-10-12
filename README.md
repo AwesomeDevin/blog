@@ -16,6 +16,9 @@
 
 #### CSS
 [【CSS】你可能不知道的Animation动画技巧与细节](https://github.com/AwesomeDevin/blog/issues/35)
+[【CSS】从浏览器渲染层面解析css3动效优化原理](https://github.com/AwesomeDevin/blog/issues/39)
+
+
 
 #### 前端工程化
 [【webpack】 从0到1构建,webpack4持久化缓存优化方案,小白也能看懂的构建过程](https://github.com/AwesomeDevin/blog/issues/4)
