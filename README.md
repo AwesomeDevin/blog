@@ -15,7 +15,7 @@
 [【Javascript】解决由于参数编码问题导致服务端报500 (如：微信小程序 session_key 加密数据解密算法 报错)](https://github.com/AwesomeDevin/blog/issues/2)  
 
 #### CSS
-[【CSS】你可能不知道的Animation动画技巧与细节](https://github.com/AwesomeDevin/blog/issues/35)
+[【CSS】你可能不知道的Animation动画技巧与细节](https://github.com/AwesomeDevin/blog/issues/35)  
 [【CSS】从浏览器渲染层面解析css3动效优化原理](https://github.com/AwesomeDevin/blog/issues/39)
 
 
