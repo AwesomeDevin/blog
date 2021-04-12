@@ -2,7 +2,7 @@
 
 ## 前端系列
 #### JAVASCRIPT
-[【Javascript】IOC/DI原理分析，并实现一个 简易版 IOD/DI 框架](https://github.com/AwesomeDevin/blog/issues/44)   
+[【Javascript】IOC/DI原理分析，并实现一个 简易版 IOC/DI 框架](https://github.com/AwesomeDevin/blog/issues/44)   
 [【Javascript】Typescript 装饰器 底层原理分析](https://github.com/AwesomeDevin/blog/issues/43)   
 [【Javascript】一篇教你从防抖、节流函数来认识this指向的文章](https://github.com/AwesomeDevin/blog/issues/31)  
 [【Javascript】手把手教你使用React Hooks构建Redux进行状态管理](https://github.com/AwesomeDevin/blog/issues/28)  
