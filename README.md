@@ -22,6 +22,8 @@
 [【CSS】从浏览器渲染层面解析css3动效优化原理](https://github.com/AwesomeDevin/blog/issues/39)
 
 
+#### NODEJS
+【【nodejs】复制文件并获取进度】(https://github.com/AwesomeDevin/blog/issues/47)
 
 #### 前端工程化
 [【webpack】 从0到1构建,webpack4持久化缓存优化方案,小白也能看懂的构建过程](https://github.com/AwesomeDevin/blog/issues/4)
