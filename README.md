@@ -38,7 +38,7 @@
 [【算法系列 - LeetCode】Fizz Buzz 问题 ](https://github.com/AwesomeDevin/blog/issues/23)  
 [【算法系列 - LeetCode】最小路径和 ](https://github.com/AwesomeDevin/blog/issues/22)  
 [【算法系列 - LeetCode】给定一个没有重复数字的序列，返回其所有可能的全排列](https://github.com/AwesomeDevin/blog/issues/11)  
-
+[【算法系列 - LeetCode】Fib优化](https://github.com/AwesomeDevin/blog/issues/49)  
 
 #### 剑指offer
 [【算法系列 - 剑指Offer】斐波那契数列](https://github.com/AwesomeDevin/blog/issues/20)  
