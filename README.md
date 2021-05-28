@@ -1,6 +1,6 @@
 ## [查看所有blog文章](https://github.com/AwesomeDevin/blog/issues)
 
-## 前端系列
+## 前端进阶系列
 #### JAVASCRIPT
 [【Javascript】实现一个简易版react-redux](https://github.com/AwesomeDevin/blog/issues/48)  
 [【Javascript】使用react hooks 构建 redux 进行状态管理](https://github.com/AwesomeDevin/blog/issues/45)   
