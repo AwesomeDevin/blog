@@ -2,6 +2,7 @@
 
 ## 前端进阶系列
 #### JAVASCRIPT
+[【Javascript】Custom Hook 与 HOC 让代码不再臃肿、冗余](https://github.com/AwesomeDevin/blog/issues/65)  
 [【Javascript】Typescript 装饰器及应用场景浅析](https://github.com/AwesomeDevin/blog/issues/62)  
 [【Javascript】实现一个简易版react-redux](https://github.com/AwesomeDevin/blog/issues/48)  
 [【Javascript】使用react hooks 构建 redux 进行状态管理](https://github.com/AwesomeDevin/blog/issues/45)   
