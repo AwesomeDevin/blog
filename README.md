@@ -2,7 +2,7 @@
 
 ## 前端进阶系列
 #### 前端框架
-(【NextJS】一文了解 NextJS 并提升应用性能的最佳实践)[https://github.com/AwesomeDevin/blog/issues/74]   
+[【NextJS】一文了解 NextJS 并提升应用性能的最佳实践](https://github.com/AwesomeDevin/blog/issues/74)  
 
 #### JAVASCRIPT
 [【Javascript】手把手教你自定义一个markdown编辑器](https://github.com/AwesomeDevin/blog/issues/67)  
