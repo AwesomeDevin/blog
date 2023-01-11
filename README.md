@@ -9,6 +9,7 @@
 [【Javascript】Custom Hook 与 HOC 让代码不再臃肿、冗余](https://github.com/AwesomeDevin/blog/issues/65)  
 [【Javascript】Typescript 装饰器及应用场景浅析](https://github.com/AwesomeDevin/blog/issues/62)  
 [【Javascript】实现一个简易版react-redux](https://github.com/AwesomeDevin/blog/issues/48)  
+[【javascript】使用 react hooks + context 进行方便快捷的全局状态管理](https://github.com/AwesomeDevin/blog/issues/79)   
 [【Javascript】使用react hooks 构建 redux 进行状态管理](https://github.com/AwesomeDevin/blog/issues/45)   
 [【Javascript】IOC/DI原理分析，并实现一个 简易版 IOC/DI 框架](https://github.com/AwesomeDevin/blog/issues/44)   
 [【Javascript】Typescript 装饰器 底层原理分析](https://github.com/AwesomeDevin/blog/issues/43)   
