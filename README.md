@@ -12,7 +12,6 @@
 #### JAVASCRIPT
 
 [【Javascript】手把手教你自定义一个markdown编辑器](https://github.com/AwesomeDevin/blog/issues/67)  
-
 [【Javascript】Typescript 装饰器及应用场景浅析](https://github.com/AwesomeDevin/blog/issues/62)  
 [【Javascript】实现一个简易版react-redux](https://github.com/AwesomeDevin/blog/issues/48)  
 [【Javascript】IOC/DI原理分析，并实现一个 简易版 IOC/DI 框架](https://github.com/AwesomeDevin/blog/issues/44)   
@@ -59,10 +58,6 @@
 [【算法系列 - 剑指Offer】替换空格](https://github.com/AwesomeDevin/blog/issues/16)  
 [【算法系列 - 剑指Offer】从尾到头打印链表](https://github.com/AwesomeDevin/blog/issues/15)  
 [【算法系列 - 剑指Offer】二维数组中的查找](https://github.com/AwesomeDevin/blog/issues/14)  
-
-
-
-
 
 ## 关于订阅
 #### 如果觉得我的文章对你有帮助，欢迎右上角 `star`。订阅的话，请 `watch` 按钮,正在努力学习中，日常更新！！！
