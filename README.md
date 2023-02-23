@@ -10,7 +10,7 @@
 
 [【React】React状态管理工具优劣势分析 react hooks context / redux / mobx / zustand / jotai / valtio](https://github.com/AwesomeDevin/blog/issues/81)  
 [【React】Custom Hook 与 HOC 让代码不再臃肿、冗余](https://github.com/AwesomeDevin/blog/issues/65)  
-[【React】使用 react hooks + context 进行方便快捷的全局状态管理](https://github.com/AwesomeDevin/blog/issues/79)   
+[【React】抛弃Redux + flux思想，使用 react hooks + context 进行方便快捷的全局状态管理](https://github.com/AwesomeDevin/blog/issues/79)   
 [【React】手把手教你使用React Hooks构建Redux进行状态管理](https://github.com/AwesomeDevin/blog/issues/28)  
 
 #### JAVASCRIPT
