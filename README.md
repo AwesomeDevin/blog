@@ -70,6 +70,14 @@
 
 - 其它
   - [Sketch 插件开发](https://github.com/AwesomeDevin/blog/issues/83)
+  
+  
+## 有价值的开源项目
+- [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - Waterfall adaptive plugin for vue and support lazy load , so easy!
+- [zustand-vue](https://github.com/AwesomeDevin/zustand-vue) - 🐻 State management for vue (Vue3 / Vue2) based on zustand.
+- [zustand-pub](https://github.com/AwesomeDevin/zustand-pub) - 🐻 Cross-Application/Cross-Framework State Management And Sharing In Iframe, Micro-Front, ModuleFederation, Componentization, Etc For Vue/React.
+- [image-color-uatils](https://github.com/AwesomeDevin/ImageColorUtils) - Image color process tool, Operate image pixels, such as pickup color, color contrast, etc
+
 
 ## 关于订阅
 #### 如果觉得我的文章对你有帮助，欢迎右上角 `star`。订阅的话，请 `watch` 按钮,正在努力学习中，日常更新！！！
