@@ -3,14 +3,6 @@
 
 ## 前端进阶系列
 
-- 性能优化
-  - NextJS
-    - [一文了解 NextJS 并提升应用性能的最佳实践](https://github.com/AwesomeDevin/blog/issues/74)  
-  - React
-    - [通过切割代码和预加载来提高页面加载速度](https://github.com/AwesomeDevin/blog/issues/84)
-  - Css
-    - [从浏览器渲染层面解析css3动效优化原理](https://github.com/AwesomeDevin/blog/issues/39)
-
 - 前端框架
   - React
     - [React状态管理工具优劣势分析 react hooks context / redux / mobx / zustand / jotai / valtio](https://github.com/AwesomeDevin/blog/issues/81)  
@@ -41,6 +33,14 @@
   
 - CSS
   - [你可能不知道的Animation动画技巧与细节](https://github.com/AwesomeDevin/blog/issues/35)  
+
+- 性能优化
+  - NextJS
+    - [一文了解 NextJS 并提升应用性能的最佳实践](https://github.com/AwesomeDevin/blog/issues/74)  
+  - React
+    - [通过切割代码和预加载来提高页面加载速度](https://github.com/AwesomeDevin/blog/issues/84)
+  - Css
+    - [从浏览器渲染层面解析css3动效优化原理](https://github.com/AwesomeDevin/blog/issues/39)
 
 
 - NODEJS
