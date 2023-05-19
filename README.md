@@ -70,7 +70,10 @@
 
 
 - 其它
+  - coolshell
+    - [别自己墙了自己]    
   - [Sketch 插件开发](https://github.com/AwesomeDevin/blog/issues/83)
+    
   
 
 
