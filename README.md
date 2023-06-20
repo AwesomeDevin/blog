@@ -3,15 +3,18 @@
 
 ## 前端进阶系列
 
-- 前端框架
+### 1. 前端框架
   - React
     - [🚀 route-resource-preload 拆分代码，减少首屏加载资源，提供优质用户体验](https://github.com/AwesomeDevin/blog/issues/85)  
-    - [React状态管理工具优劣势分析 react hooks context / redux / mobx / zustand / jotai / valtio](https://github.com/AwesomeDevin/blog/issues/81)  
     - [Custom Hook 与 HOC 让代码不再臃肿、冗余](https://github.com/AwesomeDevin/blog/issues/65)  
     - [抛弃Redux + flux思想，使用 react hooks + context 进行方便快捷的全局状态管理](https://github.com/AwesomeDevin/blog/issues/79)   
-    - [手把手教你使用React Hooks构建Redux进行状态管理](https://github.com/AwesomeDevin/blog/issues/28)  
+    - [手把手教你使用React Hooks构建Redux进行状态管理](https://github.com/AwesomeDevin/blog/issues/28)
 
-- JAVASCRIPT
+### 2. 前端状态管理
+  - [基于 zustand 维护的一套跨框架(react/vue)跨应用的状态管理及共享方案](https://github.com/AwesomeDevin/blog/issues/90)  
+  - [React状态管理工具优劣势分析 react hooks context / redux / mobx / zustand / jotai / valtio](https://github.com/AwesomeDevin/blog/issues/81) 
+
+### 3. JAVASCRIPT
   - [手把手教你自定义一个markdown编辑器](https://github.com/AwesomeDevin/blog/issues/67)  
   - [Typescript 装饰器及应用场景浅析](https://github.com/AwesomeDevin/blog/issues/62)  
   - [实现一个简易版react-redux](https://github.com/AwesomeDevin/blog/issues/48)  
@@ -28,14 +31,14 @@
   - [深入理解async/await的实现,Generator+Promise = Async/Await](https://github.com/AwesomeDevin/blog/issues/3)  
   - [解决由于参数编码问题导致服务端报500 (如：微信小程序 session_key 加密数据解密算法 报错)](https://github.com/AwesomeDevin/blog/issues/2)  
 
-- 前端工程化
+### 4. 前端工程化
   - webpack
     - [从0到1构建,webpack4持久化缓存优化方案,小白也能看懂的构建过程](https://github.com/AwesomeDevin/blog/issues/4)
   
-- CSS
+### 5. CSS
   - [你可能不知道的Animation动画技巧与细节](https://github.com/AwesomeDevin/blog/issues/35)  
 
-- 性能优化
+### 6. 性能优化
   - NextJS
     - [一文了解 NextJS 并提升应用性能的最佳实践](https://github.com/AwesomeDevin/blog/issues/74)  
   - React
@@ -44,15 +47,15 @@
     - [从浏览器渲染层面解析css3动效优化原理](https://github.com/AwesomeDevin/blog/issues/39)
 
 
-- NODEJS
+### 7. NODEJS
   - [复制文件并获取进度](https://github.com/AwesomeDevin/blog/issues/47)
 
-- Python系列
+### 8. Python系列
   - [使用简单的python语句编写爬虫 定时拿取信息并存入txt](https://github.com/AwesomeDevin/blog/issues/6)  
   - [使用openpyxl进行excel操作](https://github.com/AwesomeDevin/blog/issues/5)
 
 
-- 算法系列,码不停题！！！
+### 9. 算法系列,码不停题！！！
   - leetCode
     - [Fizz Buzz 问题 ](https://github.com/AwesomeDevin/blog/issues/23)  
     - [最小路径和 ](https://github.com/AwesomeDevin/blog/issues/22)  
@@ -69,7 +72,7 @@
     - [二维数组中的查找](https://github.com/AwesomeDevin/blog/issues/14)  
 
 
-- 其它
+### 10. 其它
   - coolshell
     - [别自己墙了自己]    
   - [Sketch 插件开发](https://github.com/AwesomeDevin/blog/issues/83)
