@@ -5,7 +5,7 @@
 
 ### 1. 前端框架
   - React
-    - [🚀 route-resource-preload 拆分代码，减少首屏加载资源，提供优质用户体验](https://github.com/AwesomeDevin/blog/issues/85)  
+    - [🚀 基于react-route-preload 实现的不一样的"代码拆分"+"动态懒加载"+"预加载"实现应用性能及体验兼得](https://github.com/AwesomeDevin/blog/issues/91)  
     - [Custom Hook 与 HOC 让代码不再臃肿、冗余](https://github.com/AwesomeDevin/blog/issues/65)  
     - [抛弃Redux + flux思想，使用 react hooks + context 进行方便快捷的全局状态管理](https://github.com/AwesomeDevin/blog/issues/79)   
     - [手把手教你使用React Hooks构建Redux进行状态管理](https://github.com/AwesomeDevin/blog/issues/28)
