@@ -46,30 +46,38 @@
   - Css
     - [从浏览器渲染层面解析css3动效优化原理](https://github.com/AwesomeDevin/blog/issues/39)
 
-
-### 7. NODEJS
-  - [复制文件并获取进度](https://github.com/AwesomeDevin/blog/issues/47)
-
-### 8. Python系列
+### 7. Python系列
   - [使用简单的python语句编写爬虫 定时拿取信息并存入txt](https://github.com/AwesomeDevin/blog/issues/6)  
   - [使用openpyxl进行excel操作](https://github.com/AwesomeDevin/blog/issues/5)
 
 
-### 9. 算法系列,码不停题！！！
-  - leetCode
-    - [Fizz Buzz 问题 ](https://github.com/AwesomeDevin/blog/issues/23)  
-    - [最小路径和 ](https://github.com/AwesomeDevin/blog/issues/22)  
-    - [给定一个没有重复数字的序列，返回其所有可能的全排列](https://github.com/AwesomeDevin/blog/issues/11)  
-    - [Fib优化](https://github.com/AwesomeDevin/blog/issues/49)  
+### 8. 算法系列,码不停题！！！
+  - [Fizz Buzz 问题 ](https://github.com/AwesomeDevin/blog/issues/23)  
+  - [最小路径和 ](https://github.com/AwesomeDevin/blog/issues/22)  
+  - [给定一个没有重复数字的序列，返回其所有可能的全排列](https://github.com/AwesomeDevin/blog/issues/11)  
+  - [Fib优化](https://github.com/AwesomeDevin/blog/issues/49)  
+  - [斐波那契数列](https://github.com/AwesomeDevin/blog/issues/20)  
+  - [旋转数组的最小数字](https://github.com/AwesomeDevin/blog/issues/19)  
+  - [实现队列 ](https://github.com/AwesomeDevin/blog/issues/18)  
+  - [重建二叉树](https://github.com/AwesomeDevin/blog/issues/17)
+  - [二叉树右视图实现](https://github.com/AwesomeDevin/blog/issues/94)    
+  - [替换空格](https://github.com/AwesomeDevin/blog/issues/16)  
+  - [从尾到头打印链表](https://github.com/AwesomeDevin/blog/issues/15)   
+  - [二维数组中的查找](https://github.com/AwesomeDevin/blog/issues/14)  
+  - [判断是否回文字符串](https://github.com/AwesomeDevin/blog/issues/98)  
+  - [常见排序算法](https://github.com/AwesomeDevin/blog/issues/97)  
+  - [【算法-动态规划-简单】爬楼梯](https://github.com/AwesomeDevin/blog/issues/89)  
+  - [【算法-简单】反转链表](https://github.com/AwesomeDevin/blog/issues/88)  
+  - [【算法-简单】合并两个有序链表](https://github.com/AwesomeDevin/blog/issues/87)  
 
-  - 剑指offer
-    - [斐波那契数列](https://github.com/AwesomeDevin/blog/issues/20)  
-    - [旋转数组的最小数字](https://github.com/AwesomeDevin/blog/issues/19)  
-    - [实现队列 ](https://github.com/AwesomeDevin/blog/issues/18)  
-    - [重建二叉树](https://github.com/AwesomeDevin/blog/issues/17)  
-    - [替换空格](https://github.com/AwesomeDevin/blog/issues/16)  
-    - [从尾到头打印链表](https://github.com/AwesomeDevin/blog/issues/15)  
-    - [二维数组中的查找](https://github.com/AwesomeDevin/blog/issues/14)  
+### 9. 编程题
+  - [复制文件并获取进度](https://github.com/AwesomeDevin/blog/issues/47)
+  - [写一个 mySetInterVal(fn, a, b),每次间隔 a,a+b,a+2b 的时间，然后写一个 myClear，停止上面的 mySetInterVal](https://github.com/AwesomeDevin/blog/issues/99)   
+  - [requestidlecallback 实现](https://github.com/AwesomeDevin/blog/issues/96)  
+  - [请实现一个函数 schedule 以限制最大并发任务数](https://github.com/AwesomeDevin/blog/issues/95)  
+  - [express / koa 中间件模型的实现](https://github.com/AwesomeDevin/blog/issues/93)  
+  - [守护进程的实现](https://github.com/AwesomeDevin/blog/issues/92)
+  - 
 
 
 ### 10. 其它
