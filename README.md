@@ -69,6 +69,7 @@
   - [【算法-动态规划-简单】爬楼梯](https://github.com/AwesomeDevin/blog/issues/89)  
   - [【算法-简单】反转链表](https://github.com/AwesomeDevin/blog/issues/88)  
   - [【算法-简单】合并两个有序链表](https://github.com/AwesomeDevin/blog/issues/87)  
+  - [【算法-中等】LRU 缓存策略](https://github.com/AwesomeDevin/blog/issues/102)  
 
 ### 9. 编程题
   - [复制文件并获取进度](https://github.com/AwesomeDevin/blog/issues/47)
@@ -76,8 +77,10 @@
   - [requestidlecallback 实现](https://github.com/AwesomeDevin/blog/issues/96)  
   - [请实现一个函数 schedule 以限制最大并发任务数](https://github.com/AwesomeDevin/blog/issues/95)  
   - [express / koa 中间件模型的实现](https://github.com/AwesomeDevin/blog/issues/93)  
-  - [守护进程的实现](https://github.com/AwesomeDevin/blog/issues/92)
-  - 
+  - [守护进程的实现](https://github.com/AwesomeDevin/blog/issues/92)  
+  - [合并二维有序数组成一维有序数组](https://github.com/AwesomeDevin/blog/issues/100)  
+  - [字符串出现的不重复最长长度](https://github.com/AwesomeDevin/blog/issues/101)
+  - [] 
 
 
 ### 10. 其它
