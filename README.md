@@ -66,11 +66,14 @@
   - [二维数组中的查找](https://github.com/AwesomeDevin/blog/issues/14)  
   - [判断是否回文字符串](https://github.com/AwesomeDevin/blog/issues/98)  
   - [常见排序算法](https://github.com/AwesomeDevin/blog/issues/97)  
-  - [【算法-动态规划-简单】爬楼梯](https://github.com/AwesomeDevin/blog/issues/89)
-  - [【算法-动态规划-简单】杨辉三角](https://github.com/AwesomeDevin/blog/issues/108)
   - [【算法-简单】反转链表](https://github.com/AwesomeDevin/blog/issues/88)  
   - [【算法-简单】合并两个有序链表](https://github.com/AwesomeDevin/blog/issues/87)  
-  - [【算法-中等】LRU 缓存策略](https://github.com/AwesomeDevin/blog/issues/102)  
+  - [【算法-中等】LRU 缓存策略](https://github.com/AwesomeDevin/blog/issues/102)
+  - 动态规划
+    - [什么是动态规划](https://github.com/AwesomeDevin/blog/issues/109)  
+    - [【算法-动态规划-简单】爬楼梯](https://github.com/AwesomeDevin/blog/issues/89)   
+    - [【算法-动态规划-简单】杨辉三角](https://github.com/AwesomeDevin/blog/issues/108)  
+
 
 ### 9. 编程题
   - [复制文件并获取进度](https://github.com/AwesomeDevin/blog/issues/47)
